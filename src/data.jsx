@@ -14,8 +14,8 @@ import Work1 from "./assets/project-1.png";
 import Work2 from "./assets/project-2.png";
 import Work3 from "./assets/project-3.png";
 import Work4 from "./assets/project-4.png";
-import Work5 from "./assets/project-5.png";
-import Work6 from "./assets/project-6.png";
+// import Work5 from "./assets/project-5.png";
+// import Work6 from "./assets/project-6.png";
 
 import Theme1 from "./assets/purple.png";
 import Theme2 from "./assets/red.png";
@@ -269,6 +269,135 @@ export const portfolio = [
         desc: (
           <a
             href="https://shopify-sourav.netlify.app/"
+            target="_blank"
+            className="clickMe"
+          >
+            Click Me
+          </a>
+        ),
+      },
+    ],
+  },
+  {
+    id: 2,
+    img: Work2,
+    title: "Movix-App (TMDB)",
+    details: [
+      {
+        icon: <FiFileText />,
+        title: "Project : ",
+        desc: "Website",
+      },
+      {
+        icon: <IoCodeWorking />,
+        title: "Code : ",
+        desc: (
+          <a
+            href="https://github.com/sourav2316/Movix.git"
+            target="_blank"
+            className="clickMe"
+          >
+            Here
+          </a>
+        ),
+      },
+      {
+        icon: <FaCode />,
+        title: "Language : ",
+        desc: "React",
+      },
+      {
+        icon: <FiExternalLink />,
+        title: "Preview : ",
+        desc: (
+          <a
+            href="https://movix-five-teal.vercel.app/"
+            target="_blank"
+            className="clickMe"
+          >
+            Click Me
+          </a>
+        ),
+      },
+    ],
+  },
+  {
+    id: 3,
+    img: Work3,
+    title: "Crypto Dashboard Design",
+    details: [
+      {
+        icon: <FiFileText />,
+        title: "Project : ",
+        desc: "Website",
+      },
+      {
+        icon: <IoCodeWorking />,
+        title: "Code : ",
+        desc: (
+          <a
+            href="https://github.com/sourav2316/React.js-Projects/tree/cd2ed9515da1ffe9bee4614c398cbddb546dc5af/Project-6-Crypto-Dashboard"
+            target="_blank"
+            className="clickMe"
+          >
+            Here
+          </a>
+        ),
+      },
+      {
+        icon: <FaCode />,
+        title: "Language : ",
+        desc: "React",
+      },
+      {
+        icon: <FiExternalLink />,
+        title: "Preview : ",
+        desc: (
+          <a
+            href="https://crypto-dashboard-dun-sigma.vercel.app/"
+            target="_blank"
+            className="clickMe"
+          >
+            Click Me
+          </a>
+        ),
+      },
+    ],
+  },
+  {
+    id: 4,
+    img: Work4,
+    title: "Crypto Dashboard Design",
+    details: [
+      {
+        icon: <FiFileText />,
+        title: "Project : ",
+        desc: "Website",
+      },
+      {
+        icon: <IoCodeWorking />,
+        title: "Code : ",
+        desc: (
+          <a
+            href="https://github.com/sourav2316/React.js-Projects/tree/cd2ed9515da1ffe9bee4614c398cbddb546dc5af/Project-3-Dice-Game"
+            target="_blank"
+            className="clickMe"
+          >
+            Here
+          </a>
+        ),
+      },
+      {
+        icon: <FaCode />,
+        title: "Language : ",
+        desc: "React",
+      },
+      {
+        icon: <FiExternalLink />,
+        title: "Preview : ",
+        desc: (
+          <a
+            href="https://dice-game-three-wheat.vercel.app/"
             target="_blank"
             className="clickMe"
           >
