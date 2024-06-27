@@ -206,19 +206,19 @@ export const skills = [
   {
     id: 1,
     title: "HTML",
-    percentage: "60",
+    percentage: "90",
   },
 
   {
     id: 2,
     title: "JavaScript",
-    percentage: "80",
+    percentage: "90",
   },
 
   {
     id: 3,
     title: "CSS",
-    percentage: "60",
+    percentage: "70",
   },
 
   {
@@ -230,7 +230,7 @@ export const skills = [
   {
     id: 4,
     title: "Graphics Designing",
-    percentage: "55",
+    percentage: "60",
   },
 ];
 
