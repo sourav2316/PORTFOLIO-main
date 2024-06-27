@@ -367,7 +367,7 @@ export const portfolio = [
   {
     id: 4,
     img: Work4,
-    title: "Crypto Dashboard Design",
+    title: "Dice-Game",
     details: [
       {
         icon: <FiFileText />,
