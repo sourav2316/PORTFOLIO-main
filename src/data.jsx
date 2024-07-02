@@ -293,7 +293,7 @@ export const portfolio = [
         title: "Code : ",
         desc: (
           <a
-            href="https://github.com/sourav2316/Movix.git"
+            href="https://github.com/sourav2316/MOVIE-APP.git"
             target="_blank"
             className="clickMe"
           >
@@ -311,7 +311,7 @@ export const portfolio = [
         title: "Preview : ",
         desc: (
           <a
-            href="https://movix-five-teal.vercel.app/"
+            href="https://movix-app23.netlify.app/"
             target="_blank"
             className="clickMe"
           >
